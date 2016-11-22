@@ -30,10 +30,26 @@
     <script src="http://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="http://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-
+<style>
+    .loading{
+    background-color: #DDDDDD;
+    display:block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 999999;
+    }
+</style>
+<script>
+$(window).on('load', function(){ 
+$(".loading").fadeOut("slow");
+});
+</script>
 </head>
 <body>
-
+<div class="loading"></div>
 <header>
   <div class="navbar navbar-default navbar-fixed-top">
     <div class="container">
@@ -77,10 +93,11 @@
     <div class="row">
       <div class="col-xs-12 outline">
         <h1>Bootstrap Theme for Japanese.</h1>
-        <p>"Chen" は<a href="http://honokak.osaka/" target="_blank">Honoka</a>ベースのBootstrapテーマです。</p>
+        <p>"Chen" は"Honoka"ベースのBootstrapテーマです。</p>
         <div class="download">
           <a href="http://github.com/tamaina/Chen/releases" class="btn btn-warning btn-lg"><i class="fa fa-github-alt"></i> Download from GitHub</a>
           <a href="/bootstrap-ja.html" class="btn btn-primary btn-lg"><i class="fa fa-play"></i> Watch Demo</a>
+          <a href="http://honokak.osaka/" class="btn btn-success btn-lg"><i class="fa fa-rocket"></i> Visit "Honoka"</a>
         </div>
         <div class="basedon small">
           Last version v<span class="last-version">3.3.7-a</span> ・ Based on <a href="http://getbootstrap.com/">Bootstrap</a> v<span class="base-version">3.3.7</span>
