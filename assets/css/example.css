@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
 .btn-twitter .fa.fa-lg, .btn-facebook .fa.fa-lg {
   margin-right: 2px;
   vertical-align: -1px;
@@ -189,7 +188,8 @@ body {
   margin-bottom: 0;
   overflow: hidden;
   text-align: center;
-  background-color: #fdcea0;
+  background-color: #5b1e24;
+  color: #eee;
   background-image: url("../img/circle.png");
   background-repeat: no-repeat;
   background-position: -35% center;
@@ -210,7 +210,7 @@ body {
 }
 .jumbotron.special h1,
 .jumbotron.special .h1 {
-  font-family: Montserrat, sans-serif;
+  font-family: "mgenplus-c-w", sans-serif;
 }
 .jumbotron.special .download {
   margin: 24px auto 12px;
