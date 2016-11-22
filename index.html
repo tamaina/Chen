@@ -42,11 +42,6 @@
     z-index: 999999;
     }
 </style>
-<script>
-$(window).on('load', function(){ 
-$(".loading").fadeOut("slow");
-});
-</script>
 </head>
 <body>
 <div class="loading"></div>
@@ -433,6 +428,10 @@ $(document).ready(function(e) {
 		$('.last-version').text(last[0].tag_name.split('v')[1]);
 		$('.base-version').text(base[0].devDependencies.bootstrap);
 	});
+});
+
+$(window).on('load', function(){ 
+$(".loading").fadeOut("slow");
 });
 </script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
