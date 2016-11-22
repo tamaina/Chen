@@ -1,8 +1,8 @@
-# Honoka
+# Chen
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[https://tamaina.github.io/Chen/]https://tamaina.github.io/Chen/)
+[https://tamaina.github.io/Chen/](https://tamaina.github.io/Chen/)
 
 [![Chen](assets/img/sample.png)](https://tamaina.github.io/Chen/)
 
@@ -108,5 +108,8 @@ WebFontを利用したくない場合は、fork元の[Honoka](honokak.osaka)を�
 
 ## Author
 
- * tamaina ([tamaina.github.io](https://tamaina.github.io/))
  * windyakin ([windyakin.net](http://windyakin.net/))
+
+## Editor
+
+ * tamaina ([tamaina.github.io](https://tamaina.github.io/))
