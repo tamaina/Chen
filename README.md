@@ -2,13 +2,13 @@
 
 [![Build Status by Travis CI](https://travis-ci.org/tamaina/Chen.svg?branch=master)](https://travis-ci.org/tamaina/Chen)
 [![Build status by AppVeyor](https://ci.appveyor.com/api/projects/status/b6rn5tseqbc0w3v7/branch/master?svg=true)](https://ci.appveyor.com/project/tamaina/chen/branch/master)
-[![devDependency Status](https://david-dm.org/tamaina/Chen/status.svg)](https://david-dm.org/tamaina/Chen#info=devDependencies)
+[![devDependency Status](https://david-dm.org/tamaina/Chen/status.svg)](https://david-dm.org/tamaina/Chen#info=devDependencies)]
 ![Bower Version](https://img.shields.io/bower/v/chen.svg)]
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[https://tamaina.github.io/Chen/](https://tamaina.github.io/Chen/)
+[https://chen.tmin.xyz](https://chen.tmin.xyz/v4-alpha.4/)
 
-[![Chen](docs/assets/img/sample.png)](https://tamaina.github.io/Chen/)
+[![Chen](docs/assets/img/sample.png)](https://chen.tmin.xyz/v4-alpha.4/)
 
 "Chen" は日本語も美しく表示できるBootstrapテーマです。
 
@@ -24,8 +24,8 @@
 
 ## Live Demo
 
- * [https://tamaina.github.io/Chen/bootstrap-ja.html](https://tamaina.github.io/Chen/bootstrap-ja.html) (日本語レイアウト)
- * [https://tamaina.github.io/Chen/bootstrap.html](https://tamaina.github.io/Chen/bootstrap.html) (英語レイアウト)
+ * [https://chen.tmin.xyz/v4-alpha.4/bootstrap-ja.html](https://chen.tmin.xyz/v4-alpha.4/bootstrap-ja.html) (日本語レイアウト)
+ * [https://chen.tmin.xyz/v4-alpha.4/bootstrap.html](https://chen.tmin.xyz/v4-alpha.4/bootstrap.html) (英語レイアウト)
 
 ## Getting Started
 
