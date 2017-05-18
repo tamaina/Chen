@@ -5,9 +5,9 @@
 [![devDependency Status](https://david-dm.org/tamaina/Chen/v4-dev/dev-status.svg)](https://david-dm.org/tamaina/Chen/v4-dev?type=dev)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[https://chen.tmin.cf/v4-alpha.4/](https://chen.tmin.cf/v4-alpha.4/)
+[https://chen.tmin.xyz/v4-alpha.4/](https://chen.tmin.xyz/v4-alpha.4/)
 
-[![Chen](docs/assets/img/sample.png)](https://chen.tmin.cf/v4-alpha.4/)
+[![Chen](docs/assets/img/sample.png)](https://chen.tmin.xyz/v4-alpha.4/)
 
 "Chen" は日本語も美しく表示できるBootstrapテーマです。
 
@@ -23,7 +23,7 @@
 
 ## Live Demo
 
- * [日本語デモ: https://chen.tmin.cf/v4-alpha.4/bootstrap.html](https://tamaina.github.io/Chen/bootstrap.html) 
+ * [日本語デモ: https://chen.tmin.xyz/v4-alpha.4/bootstrap.html](https://chen.tmin.xyz/v4-alpha.4/bootstrap.html) 
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
     <title>Bootstrap 雛形</title>
 
     <!-- BootstrapのCSS -->
-    <link href="https://cdn.tmin.cf/chen/4.0.0-alpha.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
     <h1>Hello, world!</h1>
@@ -54,20 +54,9 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
     <!-- 「①jquery(v3系)」「②Tether」「③bootstrap(.min).js」の順で読み込みます。 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-    <script src="https://cdn.tmin.cf/chen/4.0.0-alpha.4/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
-```
-
-### CDN
-
-ChenではCloudFlareを利用したCDNを利用できます。
-
-```html
-<link href="https://cdn.tmin.cf/chen/4.0.0-alpha.4/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.slim.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-<script src="https://cdn.tmin.cf/chen/4.0.0-alpha.4/js/bootstrap.min.js"></script>
 ```
 
 ### Download
@@ -131,4 +120,4 @@ WebFontを利用したくない場合は、fork元の[Honoka](http://honokak.osa
 
 ## Editor
 
- * tamaina ([http://tmin.cf](https://tamaina.github.io/))
+ * tamaina ([http://tmin.xyz](https://tamaina.github.io/))
