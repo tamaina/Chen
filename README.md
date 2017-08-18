@@ -1,5 +1,7 @@
 # Chen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tamaina/Chen.svg)](https://greenkeeper.io/)
+
 [![Build Status by Travis CI](https://travis-ci.org/tamaina/Chen.svg?branch=master)](https://travis-ci.org/tamaina/Chen)
 [![Build status by AppVeyor](https://ci.appveyor.com/api/projects/status/b6rn5tseqbc0w3v7/branch/master?svg=true)](https://ci.appveyor.com/project/tamaina/chen/branch/master)
 [![devDependency Status](https://david-dm.org/tamaina/Chen/status.svg)](https://david-dm.org/tamaina/Chen#info=devDependencies)]
